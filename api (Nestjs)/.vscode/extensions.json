@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "steoates.autoimport",
+    "PKief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ashinzekene.nestjs"
+  ]
+}

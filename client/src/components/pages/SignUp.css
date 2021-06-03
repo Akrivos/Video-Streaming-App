@@ -1,0 +1,89 @@
+.style-1{
+    width:100vw;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-image: url('lotr.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+.style-2{
+    border-radius: 5px;
+    width:400px;
+    height:600px;
+    color:white;
+    text-align:center;
+    background-color: black;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+
+.main-div-align{
+    display:flex;
+}
+
+.align-items-left{
+    align-items:left;
+    margin-left:50px;
+    margin-right:100px;
+}
+
+.sub-cl-button{
+    cursor: pointer;
+    width:100px;
+    height:50px;
+    background-color: red;
+    border:1px solid black;
+    border-radius: 6px;
+    color:white;
+    font-size: 20px;
+}
+
+.text{
+    width:280px;
+    height:50px;
+    background-color: grey;
+    padding-left:15px;
+    border:1px solid black;
+    border-radius: 6px;
+    color:white;
+    font-size: 15px;
+}
+
+#signInUP-1::placeholder{
+    color:white;
+    opacity: 1;
+}
+
+#signInUP-2::placeholder{
+    color:white;
+    opacity: 1;
+}
+
+#signInUP-3::placeholder{
+    color:white;
+    opacity: 1;
+}
+
+.selectType{
+      margin-top: 10px;
+      width:60px;
+      height:25px;
+}
+
+.selectStyle{
+      display:flex;
+      align-content: left;
+      margin-left:50px;
+      margin-top:10px;
+}
+
+  
+
+
+
+
+

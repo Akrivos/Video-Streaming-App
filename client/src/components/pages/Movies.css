@@ -1,0 +1,49 @@
+.movies-style1{
+    width: 100%;
+    height:100vh;
+    margin-top: 10px;
+    background-color: rgb(36, 34, 34);
+}
+
+.movies-style2{
+    padding-left: 10px;
+    height:80px;
+    background-color: black;
+}
+
+.movies-searchField{
+    border:1px solid black;
+    outline: none;
+    padding: 8px 60px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.myListButton{
+    cursor: pointer;
+    padding: 8px 60px;
+    border:1px solid paleturquoise;
+    margin-left: 10px;
+    border-radius: 15px;
+    background-color: paleturquoise;
+    outline:none;
+}
+
+.search { position: relative; }
+.search input { 
+    text-indent: 20px;
+    border:1px solid black;
+    outline: none;
+    padding: 8px 60px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.search .fa-search {
+    color:grey;
+    top:30px;
+    position: absolute;
+    font-size: 15px;
+    left:35px;
+}
+
+    

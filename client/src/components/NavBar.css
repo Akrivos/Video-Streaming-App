@@ -1,0 +1,33 @@
+.nav-bar-full{
+    width:100%;
+    display: flex;
+    flex: 1 1 auto;
+    align-items: center;
+    align-content: center;
+    height:50px;
+    background-color: black;
+}
+
+.nav-bar-left{
+    flex:1 1 auto;
+    margin:0 30px;
+    justify-content: flex-start;
+}
+
+.nav-links{
+    color:white;
+    margin:0 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav-bar-right{
+    justify-content: flex-end;
+    margin:0 30px;
+}
+
+.navbarTitle{
+    margin-right: 20px;
+    color:red;
+    font-size: 15px;
+}

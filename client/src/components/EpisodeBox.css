@@ -1,0 +1,30 @@
+.episodeBox-style{
+    margin-right: 20px;
+    margin-left: 20px;
+    width:250px;
+    
+
+}
+
+.episodeBox-div-style1{
+    margin-top:5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-overflow: ellipsis;
+    overflow: hidden; 
+    width: 160px; 
+    height: 1.2em; 
+    white-space: nowrap;
+    color:white;
+}
+
+.episodes-duration{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    color:white;
+    margin-left: 210px;
+}
+
+.episodes-description{
+    color:rgb(156, 154, 154);
+}

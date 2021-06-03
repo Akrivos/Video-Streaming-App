@@ -1,0 +1,103 @@
+.style1{
+    width:100%;
+    height: 100%;
+    background-image: url('lotr.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+.titleStyle{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    height:10vh;
+    color:red;
+    font-size:60px;
+}
+
+.style3{
+    border-radius: 5px;
+    width:400px;
+    height:450px;
+    color:white;
+    text-align:center;
+    background-color: black;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+
+.style2{
+    width:100vw;
+    height:90vh;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.button{
+    width:300px;
+    height:50px;
+    text-align: center;
+    background-color: red;
+    border:1px solid black;
+    border-radius: 6px;
+    color:white;
+    font-size: 20px;
+}
+
+.input{
+    width:280px;
+    height:50px;
+    background-color: grey;
+    padding-left:15px;
+    border:1px solid black;
+    border-radius: 6px;
+    color:white;
+    font-size: 15px;
+}
+
+#usernameID::placeholder{
+    color:white;
+    opacity: 1;
+}
+
+#passwordID::placeholder{
+    color:white;
+    opacity: 1;
+}
+
+.signUp{
+    color:rgb(170, 167, 167);
+    text-align: left;
+    margin-left:50px;
+}
+
+
+  .signUp-Link{
+      cursor: pointer;
+      color:white;
+      font-size: 18px;
+  }
+
+  .signUp-Link:link{
+      text-decoration: none;
+  }
+
+  .signUp-Link:visited{
+      text-decoration: none;
+  }
+
+  .signUp-Link:hover{
+      text-decoration: underline;
+  }
+
+  .signUp-Link:active{
+      text-decoration: underline;
+  }
+
+  .msg{
+      color:orange;
+  }
